@@ -3,7 +3,7 @@ main:
     url: /projects/
   - title: "Blogs"
     url: /blogs/
+  - title: "Experience"
+    url: /experience/
   - title: "Hobbies"
     url: /hobbies/
-  - title: "About"
-    url: /about/
