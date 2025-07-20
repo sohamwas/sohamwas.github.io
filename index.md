@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 ---
-# Hello and Welcome! 👋
+<h1>Hello and Welcome! 👋</h1>
 
 I'm so glad you're here. This site is a snapshot of who I am — from the projects I’ve built and the research I’ve contributed to, to the areas I’m passionate about and what I’m currently exploring.
 
