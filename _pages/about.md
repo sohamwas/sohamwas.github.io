@@ -5,7 +5,7 @@ title: "Experience"
 
 ## 🔬 Research & Internships
 
-### <img src="/assets/iiser.jpg" alt="IISER Kolkata" width="20"/> **IISER Kolkata**  
+### <img src="/assets/images/iiser.png" alt="IISER Kolkata" width="20"/> **IISER Kolkata**  
 **Research Intern**  
 *Kolkata, India · May 2025 – Present*  
 
@@ -14,7 +14,7 @@ Research focus: **KV Caching** and **Causality in Large Language Models (LLMs)**
 
 ---
 
-### <img src="/assets/axory.jpg" alt="Axory AI" width="20"/> **Axory AI**  
+### <img src="/assets/images/axory.jpg" alt="Axory AI" width="20"/> **Axory AI**  
 **Machine Learning Intern**  
 *Remote · May 2025 – Jul 2025*  
 
@@ -22,7 +22,7 @@ At Axory AI, I contributed to a project focused on **deepfake and mask detection
 
 ---
 
-### <img src="/assets/ai2.jpg" alt="AI² – ML Lab" width="20"/> **AI² – ML Lab (Manipal University Jaipur)**  
+### <img src="/assets/images/ai2.jpg" alt="AI² – ML Lab" width="20"/> **AI² – ML Lab (Manipal University Jaipur)**  
 **Undergraduate Researcher**  
 *Jaipur, India · Oct 2024 – Present*  
 
@@ -31,7 +31,7 @@ At AI², I’ve been actively involved in several projects centered on LLMs and 
 
 ---
 
-### <img src="/assets/aiisc.jpg" alt="AIISC – University of South Carolina" width="20"/> **AIISC – University of South Carolina**  
+### <img src="/assets/images/aiisc.jpg" alt="AIISC – University of South Carolina" width="20"/> **AIISC – University of South Carolina**  
 **Research Intern**  
 *Remote · Feb 2025 – May 2025*  
 
