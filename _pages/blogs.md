@@ -2,7 +2,7 @@
 title: "Blogs"
 permalink: /blogs/
 ---
-# 📝 Blogs & Notes
+
 
 Welcome to my **Blogs** section!  
 Here, I’ll be sharing my **blogs-cum-notes** — a blend of insights, learnings, and reflections as I explore the world of AI, data science, and beyond.
