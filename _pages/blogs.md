@@ -5,9 +5,9 @@ permalink: /blogs/
 
 
 Welcome to my **Blogs** section!  
-Here, I’ll be sharing my **blogs-cum-notes** — a blend of insights, learnings, and reflections as I explore the world of AI, data science, and beyond.
+Here, I’ll be sharing my **blogs-cum-notes** - a blend of insights, learnings, and reflections as I explore the world of AI, data science, and beyond.
 
-I believe that taking notes not only helps reinforce learning but also makes it easier to revisit and reflect on concepts over time. Whether it's a new paper, a cool experiment, or something I just figured out — this is where I’ll document and share it.
+I believe that taking notes not only helps reinforce learning but also makes it easier to revisit and reflect on concepts over time. Whether it's a new paper, a cool experiment, or something I just figured out - this is where I’ll document and share it.
 
 ---
 
